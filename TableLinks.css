@@ -1,0 +1,21 @@
+﻿
+.area51 {
+    z-index: 2;
+    font-size: 1em;
+    font-weight: 500;
+    color: #2999d1;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+}
+
+
+.aliens {
+    z-index: 2;
+    font-size: 1em;
+    font-weight: 500;
+    color: #2999d1;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+}
