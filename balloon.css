@@ -14,14 +14,7 @@ body{
 span {
   text-transform: uppercase;  
 }
-.container {
-  width: 800px;
-  height: 420px;
-  padding: 10px;
-  margin: 0 auto;
-  background: hsla(0, 6%, 91%, 0);
-  position: relative;
-}
+
 .balloon {
     width: 738px;
     margin: 0 auto;
