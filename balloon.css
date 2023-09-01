@@ -14,6 +14,14 @@ body{
 span {
   text-transform: uppercase;  
 }
+.container {
+  width: 800px;
+  height: 420px;
+  padding: 10px;
+  margin: 0 auto;
+  background: dodgerblue;
+  position: relative;
+}
 
 .balloon {
     width: 738px;
