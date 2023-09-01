@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftechnology&psig=AOvVaw2YfhrCf9OrFPB_Sm-P95gW&ust=1693652963413000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj28YGjiYEDFQAAAAAdAAAAABAE') no-repeat center center fixed;
+    background: url('https://raw.githubusercontent.com/janish123/Project-0/main/background.jpg') no-repeat center center fixed;
     background-size: cover;
     display: flex;
     height: 100vh;
