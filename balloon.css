@@ -19,7 +19,7 @@ span {
   height: 420px;
   padding: 10px;
   margin: 0 auto;
-  background: rgb(255,255,255);
+  background: transparent;
   position: relative;
 }
 .balloon {
